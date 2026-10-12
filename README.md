@@ -1,4 +1,4 @@
-# E-Commerce Sales & Customer Analytics (Python)
+# E-Commerce Analytics (Python)
 
 ## 📌 Project Overview
 An end-to-end Exploratory Data Analysis (EDA) and data cleaning project built using Python. This project simulates an e-commerce dataset to uncover actionable business insights regarding product category performance, sales trends, and customer purchasing behaviors.
